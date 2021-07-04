@@ -5,7 +5,7 @@
 
 h1 {
   font-size: 27px;
-  font-family: Comic Sans;
+  font-family: "Comic Sans MS";
   text-align: center;
   color: rgb(0, 0, 0);
   margin-bottom: 30px;
@@ -13,7 +13,7 @@ h1 {
 
 p {
   padding: 15px 5px 0px 5px;
-  font-family: Comic Sans;
+  font-family: "Comic Sans MS";
   font-size: 16px;
   position: relative;
 }
@@ -55,8 +55,7 @@ span {
   width: 100%;
 }
 
-/* Desktop PC view */
-
+/* Desktop */
 @media (min-width: 992px) {
  
   .col-lg-4 {
