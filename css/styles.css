@@ -19,7 +19,7 @@ p {
 }
 
 .section { 
-  background-color: rgb(75, 1600, 200);
+  background-color: rgb(75, 160, 200);
     border: 2px solid black;
     margin-top: 20px; 
     margin-right: 20px; 
@@ -39,16 +39,16 @@ span {
 }
 
 #sec1 {
-  background-color: rgb(250, 150, 150);
+  background-color: rgb(150, 75, 200);
   color: rgb(0, 0, 0);
 }
 #sec2 {
-  background-color: rgb(250, 0, 0);
-  color: rgb(250, 250, 250);
+  background-color: rgb(37, 232, 44);
+  color: rgb(0, 0, 0);
 }
 #sec3 {
-  background-color: rgb(200, 200, 100);
-  color: rgb(0, 0, 0);
+  background-color: rgb(40, 94, 203);
+  color: rgb(250, 250, 250);
 }
 
 .row {
