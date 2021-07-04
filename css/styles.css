@@ -4,7 +4,7 @@
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 26.25px;
   font-family: "Comic Sans MS";
 
   margin-bottom: 28px;
@@ -16,13 +16,13 @@ h1 {
 p {
   padding: 15px 5px 0px 5px;
   font-family: "Comic Sans MS";
-  font-size: 15.1px;
+  font-size: 15px;
   position: relative;
 }
 
 .mySection { 
   background-color: rgb(75, 160, 200);
-    border: 1.95px solid black;
+    border: 1px solid black;
    
     padding: 4.1px;
     margin-top: 20px; 
@@ -34,7 +34,7 @@ p {
  }
 
 span {
-  font-size: 21px;
+  font-size: 18.75px;
   width: 151px;
 
   border: 1px solid black;
