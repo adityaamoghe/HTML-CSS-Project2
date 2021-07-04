@@ -16,16 +16,18 @@ h1 {
 p {
   padding: 15px 5px 0px 5px;
   font-family: "Comic Sans MS";
-  font-size: 16px;
+  font-size: 15px;
   position: relative;
 }
 
-.section { 
+.mySection { 
   background-color: rgb(75, 160, 200);
-    border: 2px solid black;
+    border: 1.8px solid black;
     margin-top: 20px; 
     margin-right: 20px; 
-    padding: 3px;
+    padding: 4px;
+
+    
     text-align: justify;
     position: relative;
  }
@@ -64,12 +66,12 @@ span {
   width: 100%;
 }
 
-/* Desktop */
-@media (min-width: 992px) {
- 
-  .col-lg-4 {
-    width: 33.33%;
+/* Cell phone */
+@media (max-width: 767px)  {
+  
+  .col-xs-12 {
     float: left;
+    width: 100%;
   }
 }
 
@@ -86,11 +88,11 @@ span {
   }
 }
 
-/* Cell phone */
-@media (max-width: 767px)  {
-  
-  .col-sx-12 {
+/* Desktop */
+@media (min-width: 992px) {
+ 
+  .col-lg-4 {
+    width: 33.33%;
     float: left;
-    width: 100%;
   }
 }
