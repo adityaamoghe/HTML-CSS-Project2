@@ -67,7 +67,7 @@ span {
   width: 100%;
 }
 
-/* Cell phone */
+/* COMMENT */
 @media (max-width: 767px)  {
   .col-xs-12 {
     float: left;
@@ -75,7 +75,7 @@ span {
   }
 }
 
-/* Tablet */
+/* COMMENT */
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
     width: 50%;
@@ -87,10 +87,18 @@ span {
   }
 }
 
-/* Desktop */
+/* COMMENT */
 @media (min-width: 992px) {
   .col-lg-4 {
     width: 33.33%;
     float: left;
   }
 }
+
+/*
+
+  This is the CSS style sheet for the index.html code.
+
+  We can change the overall layout of the website and give a unique design layout to it.
+
+*/
