@@ -67,16 +67,16 @@ span {
   width: 100%;
 }
 
-/* COMMENT */
+/* Mobile View */
 @media (max-width: 767px)  {
   .col-xs-12 {
     float: left;
     width: 100%;
-    
+
   }
 }
 
-/* COMMENT */
+/* Tablet View */
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
     width: 50%;
@@ -89,7 +89,7 @@ span {
   }
 }
 
-/* COMMENT */
+/* Desktop/PC View */
 @media (min-width: 992px) {
   .col-lg-4 {
     width: 33.33%;
