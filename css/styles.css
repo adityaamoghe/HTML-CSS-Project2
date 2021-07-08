@@ -72,6 +72,7 @@ span {
   .col-xs-12 {
     float: left;
     width: 100%;
+    
   }
 }
 
@@ -84,6 +85,7 @@ span {
   .col-md-12 {
     width: 100%;
     float: left;
+
   }
 }
 
@@ -92,6 +94,7 @@ span {
   .col-lg-4 {
     width: 33.33%;
     float: left;
+
   }
 }
 
@@ -99,6 +102,6 @@ span {
 
   This is the CSS style sheet for the index.html code.
 
-  We can change the overall layout of the website and give a unique design layout to it.
+  We can change the overall layout of the website and give a unique design layout to it.   
 
 */
